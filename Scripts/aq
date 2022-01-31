@@ -1,0 +1,5 @@
+#!C:\cpython\python.exe
+
+import aq.cli
+
+aq.cli.run()
